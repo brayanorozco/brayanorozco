@@ -1,4 +1,4 @@
-<h1 *align*="center">Hi there! <img *src*="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" *width*="30px">, I'm Brayan</h1>
+<h1 *align*="center">Hi there! <img *src*="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" *width*="30px"> I'm Brayan</h1>
 
 <h3 *align*="center">• Web Developer •</h3>
 
