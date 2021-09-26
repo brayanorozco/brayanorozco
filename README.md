@@ -7,7 +7,7 @@
 
 
 
-\- 👩‍💻 I’m a Systems Engineer with work experience in Web Development, Telecommunications, Network and projects Management. 
+\- 👩‍💻 I’m a Systems Engineer with experience in Web Development, Telecommunications, Network and Projects Management. 
 
 \- ⚡ Currently immersed in the following technologies: React, Javascript, HTML and CSS (front-end), NodeJS with Express (back-end), MySQL and MongoDB (databases) willing to keep improving and learning new technologies
 
