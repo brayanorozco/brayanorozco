@@ -7,7 +7,7 @@
 
 
 
-\- 👩‍💻 I have a degree in Systems Engineering and diploma in Information Security and I have experience in Experience in telecommunications, software development, troubleshooting, systems engineering, front end development, web development and project management.
+\- 👩‍💻 I have a degree in Systems Engineering and diploma in Information Security and I have experience in telecommunications, software development, troubleshooting, systems engineering, front end development, web development and project management.
 
 \- ⚡ Currently immersed in the following technologies: React, Javascript, HTML and CSS (front-end), NodeJS with Express (back-end), MySQL and MongoDB (databases) willing to keep improving and learning new technologies.
 
