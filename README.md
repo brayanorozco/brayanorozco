@@ -1,6 +1,6 @@
 <h1 *align*="center">Hi there! <img *src*="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" *width*="30px"> I'm Brayan</h1>
 
-<h3 *align*="center">• Web Developer •</h3>
+<h3 *align*="center">• Systems Engineer and Web Developer •</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lgolin&color=yellow" alt="lgolin" /> </p>
 
