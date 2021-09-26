@@ -1,17 +1,19 @@
 <h1 *align*="center">Hi there! <img *src*="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" *width*="30px"> I'm Brayan</h1>
 
-<h3 *align*="center">• Systems Engineer and Web Developer •</h3>
+<h3 *align*="center">• Web Developer •</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lgolin&color=yellow" alt="lgolin" /> </p>
 
 
 
 
-\- 👩‍💻 I’m a Systems Engineer with experience in Web Development, Telecommunications, Network and Projects Management. 
+\- 👩‍💻 I have a degree in Systems Engineering and diploma in Information Security and I have experience in Experience in telecommunications, software development, troubleshooting, systems engineering, front end development, web development and project management.
 
-\- ⚡ Currently immersed in the following technologies: React, Javascript, HTML and CSS (front-end), NodeJS with Express (back-end), MySQL and MongoDB (databases) willing to keep improving and learning new technologies
+\- ⚡ Currently immersed in the following technologies: React, Javascript, HTML and CSS (front-end), NodeJS with Express (back-end), MySQL and MongoDB (databases) willing to keep improving and learning new technologies.
 
 \- 😄 Also teaching Spanish and some coding in my free time!
+
+\- 🤓 Looking for a new job opportunity.
 
 _______
 
