@@ -13,8 +13,6 @@
 
 \- 😄 Also teaching Spanish and some coding in my free time!
 
-\- 🤓 Looking for a new job opportunity.
-
 _______
 
 \- 💬 Ask me about ***\*JavaScript, HTML, CSS, React and SQL\****
